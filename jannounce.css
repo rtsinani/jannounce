@@ -1,0 +1,14 @@
+.ja_container { display:none; }
+.ja_container .ja_content {}
+.ja_container .ja_close {}
+	
+/* horizontal */
+.ja_container { position:relative; background:#666; color:#f0f0f0; padding:10px; text-align:center;
+	font-size:14px; 
+	box-shadow:0 1px 4px rgba(255, 255, 255, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3) inset;
+	-webkit-box-shadow:0 1px 4px rgba(255, 255, 255, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3) inset;
+	-moz-box-shadow:0 1px 4px rgba(255, 255, 255, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3) inset;
+}
+.ja_container .ja_close { display:inline-block; position:absolute; top:3px; right:10px; font-size:.8em; }
+.ja_container .ja_close:hover { background-position:-96px -128px; }
+	

@@ -1,0 +1,1 @@
+jannounce adds an announcement container to your page. 
